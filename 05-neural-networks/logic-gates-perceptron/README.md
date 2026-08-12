@@ -2,6 +2,8 @@
 
 A visual introduction to linear separability through perceptron models of AND, OR, and XOR logic gates.
 
+**Originally developed (first GitHub commit): December 19, 2024 · [View original repository](https://github.com/DavidAlmagro/LogicGates_Perceptron)**
+
 ## 1. Technologies & Concepts
 
 - Python and NumPy
