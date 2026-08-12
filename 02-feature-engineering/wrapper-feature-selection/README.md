@@ -2,6 +2,8 @@
 
 A comparison of wrapper-based feature-selection strategies applied to logistic-regression obesity prediction.
 
+**Originally developed (first GitHub commit): December 18, 2024 · [View original repository](https://github.com/DavidAlmagro/FeatureEngineering_WrapperMethods)**
+
 ## 1. Technologies & Concepts
 
 - Python and pandas

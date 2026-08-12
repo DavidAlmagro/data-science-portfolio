@@ -2,6 +2,8 @@
 
 An exploratory analysis of species observations and conservation status across Bryce Canyon, Great Smoky Mountains, Yellowstone, and Yosemite National Parks.
 
+**Originally developed (first GitHub commit): October 28, 2024 · [View original repository](https://github.com/DavidAlmagro/BiodiversityInNationalParks_USA)**
+
 ## 1. Technologies & Concepts
 
 - Python

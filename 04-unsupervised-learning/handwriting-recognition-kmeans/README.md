@@ -2,6 +2,8 @@
 
 An unsupervised-learning exercise that explores whether K-Means cluster centers can recover digit-like prototypes from handwritten images.
 
+**Originally developed (first GitHub commit): December 19, 2024 · [View original repository](https://github.com/DavidAlmagro/HandwritingRecognition_KMeans)**
+
 ## 1. Technologies & Concepts
 
 - Python and NumPy

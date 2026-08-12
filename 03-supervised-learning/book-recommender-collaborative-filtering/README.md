@@ -2,6 +2,8 @@
 
 A prototype recommender system that predicts user ratings with neighborhood-based collaborative filtering.
 
+**Originally developed (first GitHub commit): December 19, 2024 · [View original repository](https://github.com/DavidAlmagro/BookRecommender_SVM_Prototype)**
+
 ## 1. Technologies & Concepts
 
 - Python and pandas

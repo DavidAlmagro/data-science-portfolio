@@ -2,6 +2,8 @@
 
 A balanced binary-classification exercise comparing grid-search tuning of a decision tree with randomized-search tuning of logistic regression.
 
+**Originally developed (first GitHub commit): December 18, 2024 · [View original repository](https://github.com/DavidAlmagro/RaisinClassification_HyperparameterTuning)**
+
 ## 1. Technologies & Concepts
 
 - Python and pandas

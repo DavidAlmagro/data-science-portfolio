@@ -2,6 +2,8 @@
 
 A TensorFlow/Keras binary-classification project using clinical records to predict heart-failure mortality outcomes.
 
+**Originally developed (first GitHub commit): December 30, 2024 · [View original repository](https://github.com/DavidAlmagro/PredictingHeartFailure_DeepLearning)**
+
 ## 1. Technologies & Concepts
 
 - Python

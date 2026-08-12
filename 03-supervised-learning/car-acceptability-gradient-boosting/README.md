@@ -2,6 +2,8 @@
 
 A binary classification project that predicts whether a car is acceptable from price and technical attributes.
 
+**Originally developed (first GitHub commit): December 19, 2024 · [View original repository](https://github.com/DavidAlmagro/CarAcceptability_GradientBoosting)**
+
 ## 1. Technologies & Concepts
 
 - Python

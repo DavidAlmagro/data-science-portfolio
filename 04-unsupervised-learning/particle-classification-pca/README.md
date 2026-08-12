@@ -2,6 +2,8 @@
 
 A dimensionality-reduction and classification project exploring gamma-versus-hadron telescope data with PCA and Support Vector Machines.
 
+**Originally developed (first GitHub commit): December 19, 2024 · [View original repository](https://github.com/DavidAlmagro/ParticleClassification_PCA)**
+
 ## 1. Technologies & Concepts
 
 - Python
