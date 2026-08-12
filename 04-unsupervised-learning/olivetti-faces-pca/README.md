@@ -2,6 +2,8 @@
 
 A dimensionality-reduction project demonstrating eigenfaces, compression, and reconstruction on grayscale face images.
 
+**Originally developed (first GitHub commit): December 18, 2024 · [View original repository](https://github.com/DavidAlmagro/OlivettiFaces_PCA)**
+
 ## 1. Technologies & Concepts
 
 - Python
