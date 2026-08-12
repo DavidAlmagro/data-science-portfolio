@@ -2,6 +2,8 @@
 
 A Random Forest classification project using census data to predict whether income exceeds $50K, including hyperparameter tuning and feature engineering.
 
+**Originally developed (first GitHub commit): December 19, 2024 · [View original repository](https://github.com/DavidAlmagro/IncomePrediction_RandomForest)**
+
 ## 1. Technologies & Concepts
 
 - Python
