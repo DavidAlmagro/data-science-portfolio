@@ -288,7 +288,7 @@ Generated without executing notebook code. Only stored source text and saved out
 
 ---
 
-## 03-supervised-learning/book-recommender-svm
+## 03-supervised-learning/book-recommender-collaborative-filtering
 
 ### Imports
 - `import pandas as pd`
