@@ -2,6 +2,8 @@
 
 An SVM-based analysis of called strike zones using MLB pitch-location data for Aaron Judge, Jose Altuve, and David Ortiz.
 
+**Originally developed (first GitHub commit): December 19, 2024 · [View original repository](https://github.com/DavidAlmagro/BaseballStrikeZones_SVM)**
+
 ## 1. Technologies & Concepts
 
 - Python
