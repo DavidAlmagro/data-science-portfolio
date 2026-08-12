@@ -2,6 +2,8 @@
 
 A statistical exploration of NBA team performance, home-court outcomes, and FiveThirtyEight win forecasts.
 
+**Originally developed (first GitHub commit): December 18, 2024 · [View original repository](https://github.com/DavidAlmagro/NBA_Trends_DataVisualization)**
+
 ## 1. Technologies & Concepts
 
 - Python
