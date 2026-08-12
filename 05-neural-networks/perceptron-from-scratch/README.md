@@ -2,6 +2,8 @@
 
 A minimal implementation of a perceptron class designed to expose the mechanics that machine-learning libraries normally abstract away.
 
+**Originally developed (first GitHub commit): December 19, 2024 · [View original repository](https://github.com/DavidAlmagro/NeuralNetworks_PerceptronClass)**
+
 ## 1. Technologies & Concepts
 
 - Python
