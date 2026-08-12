@@ -2,6 +2,8 @@
 
 A compact data-quality and exploratory-analysis exercise using a diabetes dataset.
 
+**Originally developed (first GitHub commit): December 18, 2024 · [View original repository](https://github.com/DavidAlmagro/DiagnosingDiabetes_EDA)**
+
 ## 1. Technologies & Concepts
 
 - Python
