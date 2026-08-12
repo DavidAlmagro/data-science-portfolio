@@ -1,0 +1,39 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Temporary files
+*.tmp
+*.temp
+*.log
