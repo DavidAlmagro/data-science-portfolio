@@ -17,6 +17,8 @@ The repository consolidates a set of independent learning and portfolio projects
 
 ## Project Map
 
+For a portfolio-wide comparison of the **concrete techniques, input data/volume, and stored outcomes for all 18 projects**, see the [Complete Project Techniques, Inputs, and Outcomes Map](PROJECT_MAP.md).
+
 ### 01 — Data Analysis
 
 - [Biodiversity in U.S. National Parks](01-data-analysis/biodiversity-national-parks/)
