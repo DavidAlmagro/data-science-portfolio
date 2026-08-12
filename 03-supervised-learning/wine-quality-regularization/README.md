@@ -2,6 +2,8 @@
 
 A binary wine-quality classification project focused on regularization, cross-validation, and feature selection.
 
+**Originally developed (first GitHub commit): December 19, 2024 · [View original repository](https://github.com/DavidAlmagro/WineQuality_Regularization)**
+
 ## 1. Technologies & Concepts
 
 - Python
