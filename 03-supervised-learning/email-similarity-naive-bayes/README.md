@@ -2,6 +2,8 @@
 
 A text-classification exercise that uses newsgroup messages to study how easily different topics can be separated from their vocabulary.
 
+**Originally developed (first GitHub commit): December 19, 2024 · [View original repository](https://github.com/DavidAlmagro/EmailSimilarity_NaiveBayes)**
+
 ## 1. Technologies & Concepts
 
 - Python
