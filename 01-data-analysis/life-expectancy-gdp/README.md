@@ -2,6 +2,8 @@
 
 An exploratory analysis of the relationship between economic output and life expectancy across six countries from 2000 to 2015.
 
+**Originally developed (first GitHub commit): September 7, 2024 · [View original repository](https://github.com/DavidAlmagro/20240907_Life-Expectancy-and-GDP-Starter)**
+
 ## 1. Technologies & Concepts
 
 - Python
