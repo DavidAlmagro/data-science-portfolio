@@ -6,6 +6,20 @@ The repository consolidates independent learning and portfolio projects into a s
 
 > **Historical provenance:** dates below refer to the first GitHub commit in each original standalone repository. They provide a verifiable record of when the project first appeared on GitHub, which may be later than the actual start of development.
 
+## Technical Coverage
+
+Across the portfolio, the projects demonstrate a progression from **data-quality validation and descriptive analysis** through **statistical reasoning, feature selection, classical supervised learning, hyperparameter optimization, unsupervised representation learning, and neural-network fundamentals**.
+
+Key techniques include:
+
+- **Statistical analysis:** descriptive statistics, contingency tables, chi-square analysis, covariance, Pearson correlation.
+- **Feature engineering and selection:** SFS, SBS, RFE, derived features, coefficient sparsity with L1 regularization, tree-based feature importance.
+- **Supervised learning:** Logistic Regression, SVM/SVC with RBF kernels, Random Forest, Gradient Boosting, Multinomial Naive Bayes, neighborhood-based collaborative filtering.
+- **Model selection:** train/test splits, cross-validation, grid search, randomized search, regularization, F1/RMSE/precision/recall analysis.
+- **Unsupervised learning:** K-Means, PCA, eigendecomposition, explained variance, eigenfaces, inverse-transform reconstruction.
+- **Neural networks:** perceptron learning rules, linear separability, TensorFlow/Keras dense networks, class-level error analysis.
+- **Python ecosystem:** pandas, NumPy, SciPy, Matplotlib, Seaborn, scikit-learn, TensorFlow/Keras, Surprise, mlxtend, pybaseball.
+
 ## Featured Projects
 
 | Project | Original history | Area | Highlight |
@@ -19,7 +33,7 @@ The repository consolidates independent learning and portfolio projects into a s
 
 ## Complete Project Matrix
 
-The matrix below shows the **specific techniques**, **input structure and scale**, a deliberately short **outcome**, and the **original GitHub history** for every project. For fuller analytical notes and caveats, see [PROJECT_MAP.md](PROJECT_MAP.md).
+The matrix below shows the **specific techniques**, **input structure and scale**, a deliberately short **outcome**, and the **original GitHub history** for every project.
 
 ### 01 — Data Analysis
 
@@ -64,20 +78,6 @@ The matrix below shows the **specific techniques**, **input structure and scale*
 | [Logic Gates with Perceptrons](05-neural-networks/logic-gates-perceptron/)<br><sub>First commit: Dec 19, 2024 · [original repo](https://github.com/DavidAlmagro/LogicGates_Perceptron)</sub> | scikit-learn `Perceptron`; linear decision boundaries; decision-function visualization; binary classification; linear-separability analysis | Synthetic 4-point, 2D truth tables for AND, OR, and XOR | AND/OR reach 100%; XOR remains at 50%, demonstrating the single-layer perceptron limit. |
 | [Perceptron from Scratch](05-neural-networks/perceptron-from-scratch/)<br><sub>First commit: Dec 19, 2024 · [original repo](https://github.com/DavidAlmagro/NeuralNetworks_PerceptronClass)</sub> | Manual weighted sum; step activation; prediction error; iterative weight updates; custom OOP implementation; training to zero error | 4 manually defined 2D points with ±1 labels | The custom perceptron converges on the tiny linearly separable dataset, exposing the learning rule directly. |
 
-## Technical Coverage
-
-Across the portfolio, the projects demonstrate a progression from **data-quality validation and descriptive analysis** through **statistical reasoning, feature selection, classical supervised learning, hyperparameter optimization, unsupervised representation learning, and neural-network fundamentals**.
-
-Key techniques include:
-
-- **Statistical analysis:** descriptive statistics, contingency tables, chi-square analysis, covariance, Pearson correlation.
-- **Feature engineering and selection:** SFS, SBS, RFE, derived features, coefficient sparsity with L1 regularization, tree-based feature importance.
-- **Supervised learning:** Logistic Regression, SVM/SVC with RBF kernels, Random Forest, Gradient Boosting, Multinomial Naive Bayes, neighborhood-based collaborative filtering.
-- **Model selection:** train/test splits, cross-validation, grid search, randomized search, regularization, F1/RMSE/precision/recall analysis.
-- **Unsupervised learning:** K-Means, PCA, eigendecomposition, explained variance, eigenfaces, inverse-transform reconstruction.
-- **Neural networks:** perceptron learning rules, linear separability, TensorFlow/Keras dense networks, class-level error analysis.
-- **Python ecosystem:** pandas, NumPy, SciPy, Matplotlib, Seaborn, scikit-learn, TensorFlow/Keras, Surprise, mlxtend, pybaseball.
-
 ## Repository Structure
 
 ```text
@@ -87,7 +87,6 @@ data-science-portfolio/
 ├── 03-supervised-learning/
 ├── 04-unsupervised-learning/
 ├── 05-neural-networks/
-├── PROJECT_MAP.md
 └── README.md
 ```
 
